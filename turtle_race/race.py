@@ -5,7 +5,7 @@ screen=turtle.Screen()
 raceon=False
 
 screen.setup(height=500,width=700)
-answer=turtle.textinput(title="heyy make a bet" ,prompt= "WHICH TURTLE WILL WIN")
+answer=turtle.textinput(title="bet a color " ,prompt= "WHICH TURTLE WILL WIN")
 
 tortois=[]
 position=[190,125,60,-5,-70,-135]
